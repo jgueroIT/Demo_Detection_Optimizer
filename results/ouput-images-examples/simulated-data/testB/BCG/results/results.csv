@@ -1,0 +1,93 @@
+Project Name: testB_BCG_simulated, N: 5
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v5.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.6371333003044128,testB_v5.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.5883864164352417,testB_v5.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6252997716267904,
+New Detections,,,0.0,0.0,
+Number of Detections,,3,3.0,3.0,
+
+
+Project Name: testB_BCG_simulated, N: 10
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v10.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.7062994241714478,testB_v7_ALTmodif_a1.40_b-50.00_g1.00.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.6804515719413757,testB_v7_ALTmodif_a1.40_b-50.00_g1.00.jpg
+3,car,,,0.5210853815078735,testB_v7_ALTmodif_a1.40_b-50.00_g1.00.jpg
+4,car,,,0.500572919845581,testB_v7_ALTmodif_a1.40_b-50.00_g1.00.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6790435314178467,
+New Detections,,,0,2.0,
+Number of Detections,,3,3,5.0,
+
+
+Project Name: testB_BCG_simulated, N: 15
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v15.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.6660472750663757,testB_v3_ALTmodif_a1.45_b-3.00_g1.40.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.6873267292976379,testB_v1_ALTmodif_a1.45_b-23.00_g0.70.jpg
+3,car,,,0.5439550280570984,testB_v5_ALTmodif_a0.80_b-26.00_g1.05.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6679178675015768,
+New Detections,,,0,1.0,
+Number of Detections,,3,3,4.0,
+
+
+Project Name: testB_BCG_simulated, N: 20
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v20.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.6914786100387573,testB_v1_ALTmodif_a1.80_b-36.00_g0.80.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.7135023474693298,testB_v1_ALTmodif_a1.80_b-36.00_g0.80.jpg
+3,car,,,0.5181566476821899,testB_v13_ALTmodif_a1.55_b11.00_g1.65.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6851201852162679,
+New Detections,,,0,1.0,
+Number of Detections,,3,3,4.0,
+
+
+Project Name: testB_BCG_simulated, N: 25
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v25.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.6959934234619141,testB_v21_ALTmodif_a1.50_b20.00_g1.35.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.6817987561225891,testB_v9_ALTmodif_a1.00_b-37.00_g0.55.jpg
+3,car,,,0.5452885627746582,testB_v2_ALTmodif_a1.90_b5.00_g1.80.jpg
+4,car,,,0.5234096646308899,testB_v21_ALTmodif_a1.50_b20.00_g1.35.jpg
+5,car,,,0.519691526889801,testB_v9_ALTmodif_a1.00_b-37.00_g0.55.jpg
+6,car,,,0.5046826601028442,testB_v9_ALTmodif_a1.00_b-37.00_g0.55.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6760572592417399,
+New Detections,,,0,4.0,
+Number of Detections,,3,3,7.0,
+
+
+Project Name: testB_BCG_simulated, N: 30
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v30.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.6728019118309021,testB_v14_ALTmodif_a0.85_b-18.00_g0.85.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.7171453833580017,testB_v3_ALTmodif_a1.90_b-56.00_g0.85.jpg
+3,car,,,0.5561689138412476,testB_v23_ALTmodif_a2.10_b-23.00_g1.00.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6801089644432068,
+New Detections,,,0,1.0,
+Number of Detections,,3,3,4.0,
+
+
+Project Name: testB_BCG_simulated, N: 35
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.65428626537323,testB_v12_ALTmodif_a1.60_b-53.00_g0.90.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.696260929107666,testB_v0_ALTmodif_a1.55_b27.00_g1.05.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.6960301399230957,testB_v12_ALTmodif_a1.60_b-53.00_g0.90.jpg
+3,car,,,0.5544002652168274,testB_v12_ALTmodif_a1.60_b-53.00_g0.90.jpg
+4,car,,,0.5302854180335999,testB_v17_ALTmodif_a2.05_b-33.00_g0.95.jpg
+5,car,,,0.5086547136306763,testB_v12_ALTmodif_a1.60_b-53.00_g0.90.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6821924448013306,
+New Detections,,,0,3.0,
+Number of Detections,,3,3,6.0,
+
+
+Project Name: testB_BCG_simulated, N: 40
+Object_Index,Object_class,YOLOv8_Predict,YOLOv8_Predict_Aug,TTA_Filtered_NMS,image_version_name
+0,car,0.6503384709358215,0.6738434433937073,0.6503795981407166,testB_v40.jpg
+1,car,0.6366575956344604,0.6366575956344604,0.6973354816436768,testB_v29_ALTmodif_a2.00_b-51.00_g1.00.jpg
+2,car,0.5884009599685669,0.5884009599685669,0.7156421542167664,testB_v29_ALTmodif_a2.00_b-51.00_g1.00.jpg
+3,car,,,0.5501521229743958,testB_v29_ALTmodif_a2.00_b-51.00_g1.00.jpg
+4,car,,,0.5216589570045471,testB_v34_ALTmodif_a1.20_b-10.00_g1.10.jpg
+5,car,,,0.5111911296844482,testB_v9_ALTmodif_a1.45_b6.00_g1.55.jpg
+Mean Confidence,,0.6251323421796163,0.6329673329989115,0.6877857446670532,
+New Detections,,,0,3.0,
+Number of Detections,,3,3,6.0,
