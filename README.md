@@ -39,6 +39,17 @@ The project compares the performance of three models (TTA_Filtered_NMS, YOLOv8_P
 - `TRANSFORMATION`: Type of transformation to apply (options: B, C, G, BC, BG, CG, BCG).
 - `CLEAN_FOLDER`: Optional flag to clear the output folder before processing.
 
+| **Option** | **Description**                                                                                   |
+|------------|---------------------------------------------------------------------------------------------------|
+| B          | Adjusts the **Brightness** of the image.                                                          |
+| C          | Adjusts the **Contrast** of the image.                                                            |
+| G          | Adjusts the **Gamma** of the image.                                                               |
+| BC         | Adjusts both the **Brightness** and **Contrast** of the image.                                     |
+| BG         | Adjusts both the **Brightness** and **Gamma** of the image.                                        |
+| CG         | Adjusts both the **Contrast** and **Gamma** of the image.                                          |
+| BCG        | Adjusts the **Brightness**, **Contrast**, and **Gamma** of the image.                              |
+
+
 ### Module 2 - Demo_DetectOpt
 
 **Purpose:** Use YOLOv8's predict method to detect objects in traffic images and apply TTA and NMS techniques to improve predictions.
