@@ -86,16 +86,12 @@ Install necessary dependencies:
 ```bash
 pip install opencv-python-headless Pillow numpy ultralytics matplotlib torch pandas
 
-### Run Module 1
-
-Execute `main_transformer.py` to apply image transformations:
+### Run Module 1. Execute `main_transformer.py` to apply image transformations:
 
 ```bash
 python main_transformer.py --INPUT_IMAGE_PATH <path_to_input_image> --OUTPUT_FOLDER <path_to_output_folder> --AMPLITUDE <num> --REPETITIONS <num> --TRANSFORMATION <B, C, G, BC, BG, CG or BCG> -c
 
-### Run Module 1
-
-Execute main_demo.py to perform object detection:
+### Run Module 2. Execute main_demo.py to perform object detection:
 
 ```bash
 python main_demo.py --N <number_of_images> --MODEL_NAME yolov8n.pt --PROJECT_NAME <project_name> --INPUT_FOLDER <path_to_input_folder> --PROJECT_PATH <path_to_project_folder> --ORIGINAL_IMAGE_PATH <path_to_original_image> --OUTPUT_RESULT_FOLDER <path_to_results_folder> --IOU_THRESHOLD <iou_value> --SCORES_THRESHOLD <score_value> --MATCHING_IOU_THRESHOLD <matching_iou_value> --CLEAR_CSV
